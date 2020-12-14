@@ -34,7 +34,7 @@ const AppNavigator = createStackNavigator(
     },
   },
   {
-    initialRouteParams: 'VideoModel',
+    initialRouteParams: 'LandingPage',
   },
 );
 
